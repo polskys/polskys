@@ -1,10 +1,6 @@
 # About me 👋
 
 
-**polskys/polskys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on onboarding as a Citymapper Transportation Data Analyst.
 - 🌱 I’m currently learning how to use the various tools, including Github!
 - 👯 I’m looking to collaborate on updating GTFS files, disruption sources, OSM graphs, etc.
